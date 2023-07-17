@@ -7,7 +7,7 @@ Programmatic interface in Node.js for executing Ansible ad-hoc commands and play
 
 ### Installation
 
-`npm install node-ansible --save`
+`npm install https://github.com/tadghh/node-ansible-modified.git --save`
 
 **NOTE:** I think it goes without saying, but I'll mention it anyway - you MUST have ansible installed on the same machine
 on which your node process is going to run.
