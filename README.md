@@ -1,6 +1,9 @@
 node-ansible [![Build Status](https://travis-ci.org/shaharke/node-ansible.png?branch=develop)](https://travis-ci.org/shaharke/node-ansible)
 ============
-
+Fixes
+- Playbooks can now have either yaml or yml
+- Error on playbooks without
+- Give ansible the playbook including the extension
 Programmatic interface in Node.js for executing Ansible ad-hoc commands and playbooks
 
 #### Warning: this package is still under development. API might break between minors.
